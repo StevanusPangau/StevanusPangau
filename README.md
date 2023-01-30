@@ -8,7 +8,7 @@ I'm a college student from Universitas Kristen Satya Wacana. I am a Junior Softw
 
 *   🌍  I'm based in Indonesia
 *   ✉️  You can contact me at [stevanuspangau50@gmail.com](mailto:stevanuspangau50@gmail.com)
-*   🧠  I'm learning Laravel, Javarscript and NodeJs
+*   🧠  I'm learning Laravel, Javascript and NodeJs
 *   🤝  I'm open to collaborating on Software Developer
 
 ### Skills 
