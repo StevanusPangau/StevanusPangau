@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Welcome to my Github Profile
 ----------------------------
 
-I'm a college student from Universitas Kristen Satya Wacana. I am a Junior Software Engineer at Qua-Edutechno Startup Company.
+I'm a college student from Universitas Kristen Satya Wacana. I am a Software Engineer at Qua-Edutechno Startup Company.
 
 *   🌍  I'm based in Indonesia
 *   ✉️  You can contact me at [stevanuspangau50@gmail.com](mailto:stevanuspangau50@gmail.com)
