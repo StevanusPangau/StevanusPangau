@@ -14,7 +14,7 @@
 
 I'm a passionate **Software Engineer** with a strong focus on creating efficient, scalable, and secure software solutions. With valuable experience from successful enterprise projects, I'm committed to delivering high-quality code and collaborating with fellow professionals.
 
-more about me : stevanuspangau.dev
+more about me : <a href="https://www.stevanuspangau.dev" target="_blank">stevanuspangau.dev</a>
 
 ---
 
