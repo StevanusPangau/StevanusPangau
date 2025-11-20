@@ -2,7 +2,7 @@
 
 # Hi there, I'm Stevanus Pangau! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/>
 
-### 🚀 Software Engineer | Full Stack Developer
+### Software Engineer | Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Ready+to+Build+the+Future+with+you;From+Idea+to+Product;Turning+Ideas+into+Code;Problem+Solver" alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## /About Me
 
 I'm a passionate **Software Engineer** with a strong focus on creating efficient, scalable, and secure software solutions. With valuable experience from successful enterprise projects, I'm committed to delivering high-quality code and collaborating with fellow professionals.
 
@@ -23,48 +23,7 @@ I'm a passionate **Software Engineer** with a strong focus on creating efficient
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 💻 Programming Languages
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" title="PHP"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" title="Java"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="40" height="40" alt="Dart" title="Dart"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" title="C"/>
-</p>
-
-### 🚀 Frameworks & Libraries
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" title="Laravel"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" title="Flutter"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap"/>
-</p>
-
-### 🎨 Frontend Technologies
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
-</p>
-
-### 🎨 Design Tools
-<p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" title="Figma"/>
-</p>
-
-</div>
-
----
-
-## 🌐 Connect With Me
+## /Connect With Me
 
 <div align="center">
 
@@ -85,7 +44,7 @@ I'm a passionate **Software Engineer** with a strong focus on creating efficient
 
 ---
 
-## 📊 GitHub Analytics
+## /GitHub Analytics
 
 <div align="center">
 
@@ -101,7 +60,7 @@ I'm a passionate **Software Engineer** with a strong focus on creating efficient
 
 <div align="center">
 
-### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 <img src="https://komarev.com/ghpvc/?username=StevanusPangau&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
