@@ -14,12 +14,7 @@
 
 I'm a passionate **Software Engineer** with a strong focus on creating efficient, scalable, and secure software solutions. With valuable experience from successful enterprise projects, I'm committed to delivering high-quality code and collaborating with fellow professionals.
 
-- 🌍 **Location:** Indonesia
-- 💼 **Specialization:** Backend Development (Python & PHP)
-- 🎯 **Focus:** Enterprise Solutions, API Development, Database Design
-- 📧 **Contact:** [stevanuspangau50@gmail.com](mailto:stevanuspangau50@gmail.com)
-- 🤝 **Open to:** Collaboration and new opportunities
-- 🌱 **Always learning:** New technologies and best practices
+more about me : stevanuspangau.dev
 
 ---
 
