@@ -39,20 +39,6 @@ more about me : <a href="https://www.stevanuspangau.dev" target="_blank">stevanu
 
 ---
 
-## /GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=StevanusPangau&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StevanusPangau&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevanusPangau&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 <div align="center">
 
 ### "Code is like humor. When you have to explain it, it's bad." - Cory House
