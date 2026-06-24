@@ -26,7 +26,7 @@ I'm a passionate **Software Engineer** focused on creating efficient, scalable, 
 
 ---
 
-## /gitHub stats
+## /github stats
 
 <div align="center">
 
